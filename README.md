@@ -9,8 +9,9 @@ You are looking for answers. But answers are scattered across different dimensio
 
 To succeed, you must gather the fragmented data and bring it back to the source.
 
-1.  **[The Main Terminal (My Personal Page)](LINK_CATRE_SITE_PERSONAL)** 
+1.  **[Here is the principal page](https://iesha-stanzaed-vinita.ngrok-free.dev/)** 
 
-2.  **[The "Friend's" Blog](LINK_CATRE_SITE_PRIETEN)** 
+2.  **[The first door](https://godly-cherishingly-marlee.ngrok-free.dev/)**
+3.   **[The second door](https://nondeprecatingly-uneclipsing-riva.ngrok-free.dev/)**
 ---
 ⚠️ **SERVER STATUS:** *These links are hosted on a private, encrypted tunnel. If the links are down, the admin is asleep. Wait for the synchronization window to open.*
